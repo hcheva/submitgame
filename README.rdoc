@@ -1,0 +1,3 @@
+# SubmitGame
+
+Repository of a small project.
